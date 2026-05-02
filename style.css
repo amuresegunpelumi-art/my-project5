@@ -145,9 +145,13 @@ body{
 .left h1{
   font-size: 50px;
   margin: 20px 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 .left span{
   color: #ff4d00;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
 }
 .left p{
   opacity: 0.7;
